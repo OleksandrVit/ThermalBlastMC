@@ -1,0 +1,28 @@
+Logging:
+    default: INFO #ERROR #INFO #WARN
+
+General:
+    Modus:          BlastWave
+    Time_Step_Mode: None
+    Delta_Time:     0.1
+    End_Time:       1000.0
+    Randomseed:     -1
+    Nevents:        10
+
+Output:
+    Particles:
+        Format:          ["Root"]
+Modi:
+    BlastWave:
+        T: 156.0
+        MuB: 0.0
+        MuS: 0.0
+        MuQ: 0.0
+        MuPion: 0.0
+        MuKaon: 0.0
+        R: 11.5
+        v: 0.78
+        n: 0.7
+        Tau: 8.0
+        Max_Eta: 3.0
+        Spectral_Function: BW
