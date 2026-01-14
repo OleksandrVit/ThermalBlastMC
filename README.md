@@ -30,7 +30,7 @@ ThermalBlastMC is intended for:
 ## Installation
 
 ThermalBlastMC depends on several external libraries and must be built from source.  
-In particular, it requires **SMASH ** with its dependencies and **ROOT**.
+In particular, it requires [SMASH](https://github.com/smash-transport/smash) with its dependencies and [ROOT](https://root.cern.ch/).
 
 ### Prerequisites
 
