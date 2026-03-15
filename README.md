@@ -10,7 +10,7 @@ A detailed description of the blast-wave model, assumptions, and formalism can b
 
 ### Coupling to Hadronic Afterburner
 
-ThermalBlastMC is **directly coupled to the SMASH hadronic transport model**, which provides a microscopic description of the hadronic rescattering and decay stage following hadronization. Generated particles can are passed to SMASH, allowing for a fully consistent simulation of:
+ThermalBlastMC is **directly coupled to the SMASH hadronic transport model**, which provides a microscopic description of the hadronic rescattering and decay stage following hadronization. Generated particles are passed to SMASH, allowing for a fully consistent simulation of:
 - hadronic rescattering,
 - particle propagation,
 - resonance decays.
